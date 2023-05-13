@@ -55,7 +55,7 @@
 ![image](https://github.com/DOYOON510/Medical-data-analysis/assets/129147977/5521df42-ab8d-417a-a06a-47c34be9330a)
 ![image](https://github.com/DOYOON510/Medical-data-analysis/assets/129147977/4829ddc9-8b32-4571-a1ce-bf1806ccb821)
 
-    - 고혈압 상태에서 심부전 합병증에 걸린 사람들은 그렇지 않은 사람들보다 5개의 각 과거질병 (급성 심부전, 폐렴, 요로감염, 인슐린 사용, 빈혈)에 더 많이 걸렸던 것으로 확인
+	- 고혈압 상태에서 심부전 합병증에 걸린 사람들은 그렇지 않은 사람들보다 5개의 각 과거질병 (급성 심부전, 폐렴, 요로감염, 인슐린 사용, 빈혈)에 더 많이 걸렸던 것으로 확인
 ![image](https://github.com/DOYOON510/Medical-data-analysis/assets/129147977/f8320087-2594-4622-9808-4e1bf5099f70)
 
 
