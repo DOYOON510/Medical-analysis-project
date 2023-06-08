@@ -39,7 +39,7 @@
     - 앞서 나누어둔 고혈압과 심부전을 차례로 진단받은 그룹(n=601)과 고혈압만 진단받은 그룹(n=13,080)의 random sapling하여 두 그룹의 비율을 맞춘 뒤, 두 그룹을 merge
     - 위와 같은 과정을 반복하며 보다 정확한 결과를 보기 위해 머신러닝 모델 별 30번의 trained 모델학습 진행 후 결과 확인
     - 위와 같은 과정을 MCA를 적용한 데이터와 original 데이터 모두 적용하여 결과 값 확인
-   ![image](https://github.com/DOYOON510/Medical-data-analysis/assets/129147977/728cf17a-0a78-4e30-bbf7-e2a08d9ce956)
+  	 ![image](https://github.com/DOYOON510/Medical-data-analysis/assets/129147977/728cf17a-0a78-4e30-bbf7-e2a08d9ce956)
    
 - 세 가지 모델로 두 개의 데이터를 학습한 결과, original 데이터로 학습한 XGBoos의 모델의 성능이 평가지표(Precision, Recall, F-score, AUC)에서 대부분 좋은것을 확인
 ![image](https://github.com/DOYOON510/Medical-data-analysis/assets/129147977/9b4ef0fe-ce91-4d45-8983-4b10721c9a64)
@@ -51,7 +51,7 @@
 - 특성중요도를 사용하여 심부전 발병과 관련된 주요 과거 질병을 확인
     - 심부전증 발병과 관련된 과거 질병의 특성중요도의 값의 평균을 확인해본 결과, 결과는 유의미 함을 확인
     - 고혈압 상태에서 심부전 합병증에 걸린 사람들은 그렇지 않은 사람들보다 5개의 각 과거질병 (급성 심부전, 요로감염, 심내막하경색, 폐렴, 급성호흡부전, 피질 부신기능 부전, 동맥경화, 빈혈)에 더 많이 걸렸던 것으로 확인
-![image](https://github.com/DOYOON510/Medical-data-analysis/assets/129147977/5dc0aa10-d7ec-48ef-93cc-cb1864c57fb4)
+	![image](https://github.com/DOYOON510/Medical-data-analysis/assets/129147977/5dc0aa10-d7ec-48ef-93cc-cb1864c57fb4)
 
 
 ## 🏆 결과 및 성과
